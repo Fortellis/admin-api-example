@@ -1,0 +1,11 @@
+#Binaries
+.vs/*
+bin/*
+obj/*
+v15/*
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
