@@ -83,7 +83,7 @@ As an alternative to implementing the Admin API, Providers may look up informati
 
 # Running
 
-Prerequisites: MVC 3.0
+Prerequisites: .NET Core 3.1
 
 1. Replace `TO_BE_REPLACED` in appsettings.json with valid config.
 2. Start IIS Server
