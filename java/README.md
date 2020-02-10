@@ -1,7 +1,7 @@
 # Overview
 ## Info
 This is an example starter project for a Java implementation of the Admin API.
-> For more info, please see https://docs.fortellis.io/docs/tutorials/admin-api/admin-api-technical-overview/
+> For more info, please see https://docs.fortellis.io/docs/tutorials/admin-api/overview
 
 This sample starter implementation uses Java with Spring Boot 2 and Spring Security 5, but the Admin API can be implemented with any language or framework.
 
