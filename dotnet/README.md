@@ -1,7 +1,7 @@
 # Overview
 ## Info
 This is an example starter project for  ASP.NET implementation of the Admin API.
-> For more info, please see https://docs.fortellis.io/docs/tutorials/admin-api/admin-api-technical-overview
+> For more info, please see https://docs.fortellis.io/docs/tutorials/admin-api/overview
 
 This sample starter implementation uses ASP.NET, but the Admin API can be implemented with any language or framework.
 
