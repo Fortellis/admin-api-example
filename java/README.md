@@ -161,5 +161,8 @@ curl -X POST \
   http://localhost:8080/deactivate/7b8d5510-9bf7-4339-906f-32b8bdf31bc6 \
   -H 'Authorization: Bearer <access_token>'
 ```
+Make sure to verify the issuer of the token and the audience for the token at each of these endpoints.
+
+NOTE: Use the `api_provider` audience in your token to develop your Admin API. Once you are receiving tokens from Fortellis, change the audience to `fortellis`.
 
 Additionally, each API Implementation in Developer Account contains a `Postman Collection Test`, which can be imported to Postman for example calls with autofilled information.
